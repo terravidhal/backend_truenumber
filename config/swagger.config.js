@@ -4,7 +4,7 @@ module.exports = {
   definition: {
     openapi: '3.0.0',
     info: {
-      title: 'TrueNumber API',
+      title: 'TrueNumber API by Vidhal',
       version: '1.0.0',
       description: "Documentation de l'API TrueNumber",
     },
